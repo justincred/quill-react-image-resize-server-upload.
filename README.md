@@ -1,0 +1,1 @@
+# quill-react-image-resize-server-upload.
